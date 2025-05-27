@@ -1,7 +1,91 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
-Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
-Eleven Sports 1,Eleven Sports 1 Polonia
-Eleven Sports 2,Eleven Sports 2 Polonia
+M+ Originales HD,M+ Originales FULL HD
+M+ Cine Español,M+ Cine Espa ol FULL HD
+M+ LaLiga TV HD,M+ LaLiga TV
+M+ LaLiga TV HD,M+ LaLigaTVSD
+M+ LaLiga TV HD,M+ LaLigaTVHD
+M+ LaLiga TV HD,M+ LaLigaTVHD+
+M+ LaLiga TV HD,M+ LaLigaTVHD 235
+DAZN LaLiga HD,DAZN LaLiga HD 235
+DAZN LaLiga HD,DAZN LaLiga FULL HD
+DAZN LaLiga HD,DAZN LaLiga HD+
+M+ Liga de Campeones HD,M+ LCAMPEONES +
+M+ Liga de Campeones HD,M+ LCAMPEONES SD
+M+ Liga de Campeones HD,M+ LCAMPEONES FULL HD
+M+ Liga de Campeones HD,M+ LCAMPEONES HD
+M+ Liga de Campeones HD,M+ LCAMPEONES HD+
+M+ Liga de Campeones 2 HD,M+ LCAMPEONES 2 HD
+M+ Liga de Campeones 2 HD,M+ LCAMPEONES 2 FULL HD
+M+ Liga de Campeones 3 HD,M+ LCAMPEONES 3 HD SOLO EVENTOS
+M+ Deportes HD,M+ DEPORTESHD
+M+ Deportes HD,M+ DEPORTES FULL HD
+,24 HORAS FULL HD
+La 1 HD,LA 1 FULL HD
+La 1 HD,LA 1 HD
+La 2,LA 2 FULL HD
+La 2,LA 2 HD
+Antena 3 HD,ANTENA 3 FULL HD
+Antena 3 HD,ANTENA 3 HD
+Cuatro HD,CUATRO FULL HD
+Cuatro HD,CUATRO HD
+Telecinco HD,TELECINCO HD
+Telecinco HD,TELECINCO FULL HD
+La Sexta HD,LA SEXTA FULL HD
+La Sexta HD,LA SEXTA HD
+Aragón TV Internacional,ARAGON TV FULL HD
+Aragón TV Internacional,ARAGON TV INT
+Neox,NEOX FULL HD
+Neox,NEOX
+Nova,NOVA FULL HD
+Nova,NOVA
+Canal Sur Andalucía,CANAL SUR HD
+Mega,mega
+Atreseries,atreseries HD
+Ten,TEN
+Be Mad,BeMad tv HD
+Paramount Network,PARAMOUNT NETWORK
+M+ Originales FULL HD,M+ Originales HD
+M+ Cine Español,M+ Cine FULL HD
+M+ Indie HD,M+ Indie FULL HD
+M+ Acción HD,M+ ACCION FULL HD
+M+ Drama HD,M+ DRAMA FULL HD
+M+ Comedia HD,M+ COMEDIA FULL HD
+M+ Clásicos HD,M+ CLASICOS FULL HD
+M+ Cine Español,M+ Cine Espa ol FULL HD
+TCM HD,TCM FULL HD
+AXN HD,AXN FULL HD
+M+ Hits HD,M+ SERIES FULL HD
+SyFy HD,SYFY FULL HD
+Paramount Network,PARAMOUNT FULL HD
+Be Mad,BE MAD FULL HD
+Comedy Central HD,COMEDYCENTRAL FULL HD
+Cosmo HD,COSMO FULL HD
+Energy,ENERGY FULL HD
+Factoría de Ficción,FDF FULL HD
+M+ Vamos HD,M+ VAMOS FULL HD
+Movistar Plus+ HD,Movistar Plus+ FULL HD
+M+ Liga de Campeones HD,M+ LCAMPEONES FULL HD
+M+ Liga de Campeones 2 HD,M+ LCAMPEONES 2 FULL HD
+M+ Liga de Campeones 3 HD,M+ LCAMPEONES 3 FULL HD
+Movistar Plus+ HD,Movistar Plus+ FULL HD
+DAZN 1 HD,DAZN 1 FULL HD
+DAZN 2 HD,DAZN 2 FULL HD
+DAZN 3 HD,DAZN 3 FULL HD
+DAZN 4 HD,DAZN 4 FULL HD
+M+ Deportes HD,M+ DEPORTES FULL HD
+M+ Deportes 2 HD,M+ DEPORTES2 FULL HD
+Eurosport 1 HD,EUROSPORT 1 FULL HD
+Eurosport 2,EUROSPORT 2 FULL HD
+GOL PLAY,GOL PLAY FULL HD
+Teledeporte,TELEDEPORTE FULL HD
+Real Madrid TV,Realmadrid TV FULL HD
+Nat Geo Wild HD,NAT GEO FULL HD
+Nat Geo Wild HD,NAT GEO WILD FULL HD
+Odisea,CANAL ODISEA FULL HD
+Caza y Pesca HD,CAZAyPESCA FULL HD
+Historia,HISTORIA FULL HD
+MTV España,MTV ESPANA FULL HD
+Boing,BOING FULL HD
+Clan,CLAN TVE FULL HD
+Disney Junior,DISNEY JR FULL HD
+Nickelodeon HD,NICKELODEON FULL HD
+Dreamworks HD,DreamWorks FULL HD
